@@ -7,3 +7,9 @@ influxdb/var/lib/wal
 
 # ignore generated configration file
 grafana/etc/provisioning/datasources/datasource.yaml
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
